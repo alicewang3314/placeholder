@@ -10,11 +10,11 @@
     },
     {      
       "id": 2
-      "username": "user
-      "password": "user
-      "firstName": "normal
-      "lastName": "user
-      "role": "User
+      "username": "user",
+      "password": "user",
+      "firstName": "normal",
+      "lastName": "user",
+      "role": "User"
     }
   ],
   "profile": {
