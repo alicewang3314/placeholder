@@ -9,7 +9,7 @@
       "role": "Admin"
     },
     {      
-      "id": 2
+      "id": 2,
       "username": "user",
       "password": "user",
       "firstName": "normal",
